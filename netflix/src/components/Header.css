@@ -12,10 +12,6 @@ header{
     background: transparent;
     transition: all ease 0.5s;
 }
-
-header.black{
-    background-color: #141414;
-}
 .header--logo {
     height: 30px;
 }

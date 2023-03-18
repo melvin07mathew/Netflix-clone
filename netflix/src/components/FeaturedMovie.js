@@ -1,6 +1,6 @@
 import React from 'react';
 import './FeaturedMovie.css';
-import { FaPlay, FaPlus } from 'react-icons/fa';
+import { FaPlay, FaPlus, FaSearch } from 'react-icons/fa';
 
 export default ({ item }) => {
 
